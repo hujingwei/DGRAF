@@ -1,1 +1,1 @@
-This is the test code for the paper DGRAF: Observation-Quality-Aware Reinforcement Learning for Dynamic Reconfigurable Batteries. The goal is to achieve dynamic reconfiguration of energy storage systems under partial observability.
+This is the code for the paper DGRAF: Observation-Quality-Aware Reinforcement Learning for Dynamic Reconfigurable Batteries. The goal is to achieve dynamic reconfiguration of energy storage systems under partial observability.
